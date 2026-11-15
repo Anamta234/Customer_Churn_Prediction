@@ -6,7 +6,7 @@
 
 An end-to-end machine learning project that predicts which telecom customers are likely to leave (churn). It covers exploratory data analysis, feature engineering, model comparison and a Streamlit web app that returns a churn probability for a new customer and shows what is pushing the risk up or down.
 
-![Home page](screenshots/home.png)
+![Home page](screenshots/home.png.png)
 
 ## Table of contents
 
@@ -73,7 +73,7 @@ The Streamlit app has four pages:
 - **Models:** side-by-side comparison of all models with charts and confusion matrices.
 - **About:** the dataset, churn patterns and how the project was built.
 
-![Predict page](screenshots/predict.png)
+![Predict page](screenshots/predict.png.png)
 
 ## Methodology
 
